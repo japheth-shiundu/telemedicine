@@ -1,4 +1,4 @@
-# telemedicine
+# Telemedicine
 
 
 ## 📌 Project Overview
