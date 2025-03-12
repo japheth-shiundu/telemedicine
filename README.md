@@ -3,7 +3,6 @@
 
 ## 📌 Project Overview
 This is a **Telemedicine Admin Panel**, a web-based application that allows administrators to **manage appointments, doctors, and patient interactions** efficiently. The system provides CRUD (Create, Read, Update, Delete) operations for **appointments and doctors**, ensuring a smooth telemedicine experience.
-![Screenshot (10)](https://github.com/user-attachments/assets/d74b418c-8593-4764-997b-8737d391794d)
 
 ## 🚀 Features
 - **Admin Authentication** (Login/Logout)
@@ -13,6 +12,12 @@ This is a **Telemedicine Admin Panel**, a web-based application that allows admi
 - **Message Management System**
 - **User-friendly Interface** with Sidebar Navigation
 - **Responsive Design with Poppins Font**
+- ![Screenshot (12)](https://github.com/user-attachments/assets/896f5a5a-3fcd-4c1e-bb8b-d8a005d0d8de)
+- ![Screenshot (8)](https://github.com/user-attachments/assets/30482723-822b-4497-9ed3-3d3e5495dea7)
+- ![Screenshot (10)](https://github.com/user-attachments/assets/c084517c-e9a2-4b24-abd1-6b4a712ae757)
+
+
+
 
 ## 🛠️ Technologies Used
 - **Front-end:** HTML, CSS
@@ -69,7 +74,10 @@ project-root/
    - Start a local server using **XAMPP** or **WAMP**
    - Access the project at:
      ```
-     http://localhost/telemedicine-admin/admin-panel/login.php
+     http://localhost/telemedicine/index.php
+     ```
+     ```
+     http://localhost/telemedicine/admin-panel/login.php
      ```
 
 ## 👤 Admin Login Credentials
