@@ -48,8 +48,8 @@ project-root/
 ## 🔧 Installation & Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/telemedicine-admin.git
-   cd telemedicine-admin
+   git clone https://github.com/your-repo/telemedicine.git
+   cd telemedicine
    ```
 
 2. **Set Up Database**
@@ -87,14 +87,7 @@ Password: admin123
 - **Manage Doctors** (Add, Edit, Delete, View)
 - **Handle Messages** from Patients
 
-## ⚡ Future Enhancements
-- ✅ User roles and permissions
-- ✅ Appointment status tracking
-- ✅ Email notifications for bookings
-- ✅ Improved UI & Analytics Dashboard
-
 ## 📜 License
-This project is open-source and free to use. Modify as needed!
+This project is open-source and free to use for personal use. Modify as needed!
 
-🚀 **Happy Coding!** 🎯
 
