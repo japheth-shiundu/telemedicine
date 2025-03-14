@@ -51,6 +51,7 @@ $doctors = $pdo->query("SELECT * FROM doctors ORDER BY id DESC")->fetchAll(PDO::
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Manage Doctors</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         * { font-family: 'Poppins', sans-serif; margin: 0; padding: 0; box-sizing: border-box; }
         body { display: flex; height: 100vh; }
@@ -70,12 +71,12 @@ $doctors = $pdo->query("SELECT * FROM doctors ORDER BY id DESC")->fetchAll(PDO::
 <body>
     <div class="sidebar">
         <h2>Admin Panel</h2>
-        <a href="index.php">🏠 Home</a>
-        <a href="manage_appointments.php">📅 Manage Appointments</a>
-        <a href="manage_doctors.php">👨‍⚕️ Manage Doctors</a>
-        <a href="messages.php">📩 View Messages</a>
-        <a href="profile.php">👤 Admin Profile</a>
-        <a href="logout.php">🚪 Log Out</a>
+        <a href="index.php"><i class="fas fa-home"></i> Home</a> 
+        <a href="manage_appointments.php"><i class="fas fa-calendar-alt"></i> Manage Appointments</a>
+        <a href="manage_doctors.php"><i class="fas fa-user-md"></i> Manage Doctors</a>
+        <a href="messages.php"><i class="fas fa-envelope"></i> View Messages</a>
+        <a href="profile.php"><i class="fas fa-user"></i> Admin Profile</a>
+        <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Log Out</a>
     </div>
     
     <div class="content">
