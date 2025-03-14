@@ -49,7 +49,7 @@ try {
     </div>
     <div class="content">
         <header>
-            <h2>Welcome, <?php echo htmlspecialchars($admin['name']); ?>!</h2>
+            <h2><i class="fas fa-home"></i> Welcome, <?php echo htmlspecialchars($admin['name']); ?>!</h2>
         </header>
         <p>This is your dashboard. Select an option from the sidebar.</p>
     </div>
