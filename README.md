@@ -12,9 +12,14 @@ This is a **Telemedicine Admin Panel**, a web-based application that allows admi
 - **Message Management System**
 - **User-friendly Interface** with Sidebar Navigation
 - **Responsive Design with Poppins Font**
-- ![Screenshot (12)](https://github.com/user-attachments/assets/896f5a5a-3fcd-4c1e-bb8b-d8a005d0d8de)
-- ![Screenshot (8)](https://github.com/user-attachments/assets/30482723-822b-4497-9ed3-3d3e5495dea7)
-- ![Screenshot (10)](https://github.com/user-attachments/assets/c084517c-e9a2-4b24-abd1-6b4a712ae757)
+- ![Screenshot (13)](https://github.com/user-attachments/assets/e4bc3726-c5b2-4ed6-a3e1-f177b963aaad)
+- ![Screenshot (15)](https://github.com/user-attachments/assets/4473c817-8d2d-4304-8c69-8b92f605ec07)
+- ![Screenshot (14)](https://github.com/user-attachments/assets/9c0500d7-9611-47ed-a0e7-62580d59121a)
+- ![Screenshot (17)](https://github.com/user-attachments/assets/3f084dc2-1726-4918-9cf6-3aa224e61738)
+- ![Screenshot (16)](https://github.com/user-attachments/assets/d0389ec9-da47-4292-bf13-7b8a3fa598ac)
+
+
+
 
 
 
