@@ -99,7 +99,7 @@ try {
     </div>
     <div class="content">
         <header>
-            <h2>Manage Appointments</h2>
+            <h2><i class="fas fa-calendar-alt"></i>Manage Appointments</h2>
         </header>
 
         <div class="form-container">
